@@ -1,1 +1,81 @@
-# testing
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Saya</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2, h3 {
+            color: #333;
+        }
+
+        img {
+            max-width: 200px;
+            height: auto;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <img src="foto_profil.jpg" alt="Foto Profil"> 
+            <h1>Nama Lengkap</h1>
+            <h2>Pekerjaan/Profesi</h2>
+        </header>
+
+        <section>
+            <h3>Tentang Saya</h3>
+            <p>Tuliskan deskripsi singkat tentang dirimu di sini. Ceritakan tentang minat, hobi, atau hal lain yang ingin kamu bagikan.</p>
+        </section>
+
+        <section>
+            <h3>Pengalaman</h3>
+            <ul>
+                <li>Pengalaman 1</li>
+                <li>Pengalaman 2</li>
+                <li>Pengalaman 3</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Pendidikan</h3>
+            <ul>
+                <li>Nama Institusi - Jurusan (Tahun Lulus)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Kontak</h3>
+            <ul>
+                <li>Email: alamat_email@email.com</li>
+                <li>Telepon: nomor_telepon</li>
+                <li>LinkedIn: linkedin_profile_url</li> 
+            </ul>
+        </section>
+
+        <footer>
+            <p>&copy; 2023 Nama Lengkap</p>
+        </footer>
+    </div>
+
+</body>
+</html>
