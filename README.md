@@ -44,7 +44,7 @@
 
         <section>
             <h3>Tentang Saya</h3>
-            <p>Tuliskan deskripsi singkat tentang dirimu di sini. Ceritakan tentang minat, hobi, atau hal lain yang ingin kamu bagikan.</p>
+            <p>Tuliskan deskripsi singkat tentang dirimu di sini.</p>
         </section>
 
         <section>
@@ -73,7 +73,7 @@
         </section>
 
         <footer>
-            <p>&copy; 2023 Nama Lengkap</p>
+            <p>&copy; 2024 Fardan Rabbani</p>
         </footer>
     </div>
 
